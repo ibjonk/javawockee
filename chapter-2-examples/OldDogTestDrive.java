@@ -1,4 +1,4 @@
-public class DogTestDrive {
+public class OldDogTestDrive {
     public static void main(String[] args) {
         Dog d = new Dog();
         d.size = 40;
