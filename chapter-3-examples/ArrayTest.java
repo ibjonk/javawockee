@@ -8,5 +8,5 @@ public class ArrayTest {
         pets[0] = new Dog();
         pets[1] = new Dog();
 
-}
+    }
 }
