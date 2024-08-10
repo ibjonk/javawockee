@@ -137,3 +137,5 @@ COMPARING VARIABLES (primitives or references)
 <Stop here, late night studying>
 <08.10.2024>
 <p.86>
+
+this is just testing the github nonsense
