@@ -333,3 +333,34 @@ BE THE COMPILER
 A: looks like it would work. it creates an array, assigns values to each element of the array, loops through the array to display the title and author. i am sure there is something wrong in there that i am missing, but it looks okay to me. _of course it forgot to actually create the objects for each element of the array. can not believe i overlooked that lol_
 
 B: looks messy is my first impression. this one needs to fix the counter so that it starts at the first element of the array, such as z = -1 and change the validation check to be z < 2 instead of z < 4
+
+<more swelling but we ball a little bit maybe>
+<08.08.2024>
+
+CODE MAGNETS exercise
+
+expected output:
+
+island = fiji
+island = cozumel
+island = bermuda
+island = azores
+
+DONEZO
+
+POOL PUZZLE
+
+DONEZO
+
+<MAX SWOLLAGE but grind a lil ha>
+<08.09.2024>
+
+A HEAP O' TROUBLE
+
+DONEZO
+
+Five-Minute Mystery: The Case of the Pilfered References
+
+She chose Bob's solution because you can access each element of the array individually, idek what refc is doing in Kent's solution tbh
+  - all but the last object were unreachable in Kent's solution
+  - Kent had only one reference variable that was being assigned to a new object each time, making the one before it unreachable. Bob made an a unique object in each iteration with his solution, making all of his reachable
